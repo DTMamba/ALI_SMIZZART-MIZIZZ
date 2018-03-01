@@ -1,0 +1,17 @@
+Face API
+This API key is currently active
+28 days remaining
+Detect, identify, analyze, organize, and tag faces in photo
+30,000 transactions, 20 per minute.
+Endpoint: https://westcentralus.api.cognitive.microsoft.com/face/v1.0
+Key 1: ddad03667f7f499ead86ff20e750b961
+Key 2: 4ee07aaea1794fe1b50943fb6e72dfb
+
+Computer Vision API
+This API key is currently active
+30 days remaining
+Distill actionable information from images
+5,000 transactions, 20 per minute.
+Endpoint: https://westcentralus.api.cognitive.microsoft.com/vision/v1.0
+Key 1: ca7307f56cc1473ba09153b43aa5f868
+Key 2: 200707195a8941469a750216d702ab43
